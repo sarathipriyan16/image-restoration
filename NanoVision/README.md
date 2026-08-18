@@ -1,4 +1,4 @@
-# KLA Hackathon Submission — Trial 18 Image Restoration
+# KLA Hackathon Submission — Image Restoration
 
 This project implements a custom image-restoration model for restoring noisy grayscale semiconductor images. The solution is built around a lightweight edge-aware ConvNeXt-V2 style restoration network and is designed to process `.npy` image inputs and produce restored `.npy` outputs.
 
